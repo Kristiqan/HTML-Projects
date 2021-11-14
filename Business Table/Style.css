@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital@1&display=swap');
+body{
+    background-color:darkturquoise ; 
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
+img{
+    padding: 70px;
+}
+.big-banner{
+    background-image: url(images/Background.png);
+    height: 664px;
+    margin-top: 100px; 
+    padding-top: 0px;  
+    padding-left: 0px;
+    padding-right: 0px; 
+}
+    
+   
+
+
