@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+.CountryTable{
+    border-collapse: collapse;
+   height: 600px;
+   width: 950px;
+}
+.Image{
+    width: 200px;
+    
+}
+
+th, td {
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+
